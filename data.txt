@@ -1,0 +1,5 @@
+Name: phone number: sex: age: specialization: salary:
+Alex 35463657 Man 27 Driver 3000
+Jhon 25434 Man 34 security 2500
+Lisa 2435346 Woman 25 secretary 3000
+Georyi 424352 Man 26 designer 10000
