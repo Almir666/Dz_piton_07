@@ -1,5 +1,8 @@
 Name: phone number: sex: age: specialization: salary:
-Alex 35463657 Man 27 Driver 3000
-Jhon 25434 Man 34 security 2500
-Lisa 2435346 Woman 25 secretary 3000
-Georyi 424352 Man 26 designer 10000
+FFFFFFFFFFFFFFFFFFF 35463657 Man 27 Driver 1407 
+25434 Man 34 security 2500
+Donna 2435346 Woman 25 secretary 3000
+Georyi 666 Man 26 designer 10000Fil 54366 Man worker 1500
+XXXXX 5324563456 Man fff 333
+Artem 34563456 gdgh kjhj iij 3546457
+Yana 45354756 designer woman 26 2500
